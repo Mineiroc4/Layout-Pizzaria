@@ -1,0 +1,461 @@
+.cabecalho-menu {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+  background: #222222;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.atalho-menu {
+  list-style: none;
+  display: list-item;
+}
+.home-header {
+  position: absolute;
+  width: 44px;
+  height: 19px;
+  left: 830px;
+  top: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.ranking-header {
+  position: absolute;
+  width: 58px;
+  height: 19px;
+  left: 880px;
+  top: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.promocao-header {
+  position: absolute;
+  width: 74px;
+  height: 19px;
+  left: 945px;
+  top: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.contato-header {
+  position: absolute;
+  width: 190px;
+  height: 19px;
+  left: 1024px;
+  top: 40px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.propaganda {
+  position: absolute;
+  width: 490px;
+  height: 350px;
+  left: 19px;
+  top: 15px;
+  border-radius: 5px;
+}
+.texto-propaganda {
+  position: absolute;
+  width: 485px;
+  height: 28px;
+  left: 21px;
+  top: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #fc200c;
+}
+.texto-branco {
+  color: white;
+}
+.banner {
+  position: absolute;
+  width: 490px;
+  height: 350px;
+  left: 19px;
+  top: 135px;
+  border-radius: 5px;
+}
+.img-cardapio {
+  position: absolute;
+  width: 92px;
+  height: 129px;
+  left: 1000px;
+  top: 110px;
+  border-radius: 5px;
+}
+.titulo-cardapio {
+  position: absolute;
+  width: 205px;
+  height: 28px;
+  left: 674px;
+  top: -10px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #fc200c;
+  text-decoration: underline;
+}
+.bauru {
+  position: absolute;
+  width: 500px;
+  height: 28px;
+  left: 600px;
+  top: 45px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.bolonhesa {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 70px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.calabresa {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 95px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.frango {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 120px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.fugazzeta {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 145px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.hawaiana {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 170px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.mussarela {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 195px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.paulista {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 220px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.portuguesa {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 245px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.presunto {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 270px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.marguerita {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  left: 600px;
+  top: 295px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: black;
+  text-decoration: underline;
+}
+.titulo-ranking {
+  position: absolute;
+  width: 150.44px;
+  height: 23px;
+  left: 190px;
+  top: 370px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  color: #222222;
+  text-decoration: underline;
+}
+.rank1 {
+  position: absolute;
+  width: 160px;
+  height: 19px;
+  left: 39px;
+  top: 420px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #222222;
+}
+.rank2 {
+  position: absolute;
+  width: 150px;
+  height: 19px;
+  left: 39px;
+  top: 450px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #222222;
+}
+.rank3 {
+  position: absolute;
+  width: 94px;
+  height: 19px;
+  left: 39px;
+  top: 480px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #222222;
+}
+.rank4 {
+  position: absolute;
+  width: 92px;
+  height: 19px;
+  left: 39px;
+  top: 510px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #222222;
+}
+.rank5 {
+  position: absolute;
+  width: 90px;
+  height: 19px;
+  left: 39px;
+  top: 540px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #222222;
+}
+.foto-calabresa {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 320px;
+  top: 420px;
+  border-radius: 5px;
+}
+.foto-frango {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 490px;
+  top: 420px;
+  border-radius: 5px;
+}
+.foto-bolonhesa {
+  position: absolute;
+  width: 150px;
+  height: 230px;
+  left: 660px;
+  top: 380px;
+  border-radius: 5px;
+  
+}
+.foto-fugazzeta {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 830px;
+  top: 420px;
+  border-radius: 5px;
+}
+.foto-hawaiana {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 1000px;
+  top: 420px;
+  border-radius: 5px;
+}
+.logo-rodape {
+  margin: 10px;
+  position: absolute;
+  left: 970px;
+}
+.home-footer {
+  position: absolute;
+  width: 44px;
+  height: 19px;
+  left: calc(50% - 280px / 2 - 470px);
+  bottom: 120px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.ranking-footer {
+  position: absolute;
+  width: 58px;
+  height: 19px;
+  left: calc(50% - 295px / 2 - 463px);
+  bottom: 89px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.promocao-footer {
+  position: absolute;
+  width: 74px;
+  height: 19px;
+  left: calc(50% - 310px / 2 - 455px);
+  bottom: 58px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.contato-footer {
+  position: absolute;
+  width: 190px;
+  height: 19px;
+  left: calc(50% - 295px / 2 - 463.5px);
+  bottom: 27px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #f3f3f3;
+}
+.rodape {
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  left: 0px;
+  bottom: 0px;
+  top: 770px;
+  background: #222222;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
